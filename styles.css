@@ -118,6 +118,13 @@ li {
   
 }
 
+.examples-button {
+  padding: 0.75em 1.25em;
+  background-color:  blanchedalmond;
+  opacity: 0.9;
+  width: 10em;
+  color: black;
+}
 
 .examples {
     padding: 40px;
