@@ -119,9 +119,11 @@ li {
 }
 
 .examples-button {
+  text-align: center;
   padding: 0.75em 1.25em;
-  background-color:  blanchedalmond;
-  opacity: 0.9;
+  font-family: 'Playfair Display', serif;
+  opacity: 0.75;
+  background-color: white;
   width: 10em;
   color: black;
 }
