@@ -133,6 +133,10 @@ li {
     padding-left: 80px;
     color: rgba(255, 255, 255, 0.5); 
 }
+.active {
+  background-color: #333333;
+  color: whitesmoke;
+}
 .linker {
     padding: 40px;
     display: block;
