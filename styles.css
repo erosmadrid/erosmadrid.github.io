@@ -92,7 +92,7 @@ p {
   -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
-  align-self: center
+  align-self: center;
   width: 50px;
   height: 100px;
 }
@@ -185,3 +185,9 @@ h5 {
 canvas {
   border: 1px solid black;
 }
+video {
+  margin: 20px;
+  padding: 30px;
+  align-self: center;
+}
+  
