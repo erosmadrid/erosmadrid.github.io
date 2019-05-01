@@ -1,4 +1,6 @@
 console.log('Javascript working');
+var canvas= document.querySelector('Canvas');
+
 
 
 
