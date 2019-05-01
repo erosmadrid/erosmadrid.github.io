@@ -1,3 +1,12 @@
+console.log('Javascript working');
+
+
+
+
+
+
+
+
 $('.examples').hide();
  
 $('.examples-button').on('click', function() {
