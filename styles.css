@@ -172,7 +172,8 @@ h5 {
 .polygon {
     padding: 40px;
     padding-top: 10px;
-    padding-right: 80px;
+    padding-right: 100px;
+    opacity 0.35;
 }
 .music {
   padding: 40px;
