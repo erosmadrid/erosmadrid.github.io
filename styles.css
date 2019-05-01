@@ -122,11 +122,12 @@ li {
   text-align: center;
   padding: 0.75em 1.25em;
   font-family: 'Playfair Display', serif;
-  opacity: 0.75;
+  opacity: 0.25;
   background-color: white;
   width: 10em;
   color: black;
-  padding-top: 10px;
+  padding: 50px;
+  margin: 50px;
 }
 
 .examples {
