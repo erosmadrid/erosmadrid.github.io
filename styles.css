@@ -126,8 +126,8 @@ li {
   background-color: white;
   width: 10em;
   color: black;
-  padding: 150px;
-  margin: 50px;
+  padding: 20px;
+  margin: 70px;
 }
 
 .examples {
@@ -176,6 +176,7 @@ h5 {
 }
 .music {
   padding: 40px;
-  margin: 15px;
+  margin top: 80px;
+  margin bottom: 10px;
   position: relative;
   
